@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "788846771917",
+    "project_id": "a-app-89648",
+    "storage_bucket": "a-app-89648.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:788846771917:android:3877416dd6030123ae7384",
+        "android_client_info": {
+          "package_name": "com.flutterflow.aapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "788846771917-vlicu49a76490s56ue2f3hdtufjp60vb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxPBGU-syd1fI8GNLAqoBiOLCcjmdTE-M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "788846771917-vlicu49a76490s56ue2f3hdtufjp60vb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
